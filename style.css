@@ -29,6 +29,7 @@
     border-radius: 10px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    box-shadow: rgb(29, 55, 85,0.25) 0px 13px 27px -5px, hsla(212, 86%, 64%, 0.3) 0px 8px 16px -8px;
   }
   .left > div, .center > div, .right div {
     padding: 0.5rem 2rem;
@@ -40,18 +41,18 @@
   }
   .team-builder {
     border-top: 4px solid hsl(0, 78%, 62%);
-    border-radius: 10px;
+    border-radius: 5px;
   }
   .karma {
     border-top: 4px solid hsl(34, 97%, 64%);
-    border-radius: 10px;
+    border-radius: 5px;
   }
   .karma p {
     width: 90%;
   }
   .calculator {
     border-top: 4px solid hsl(212, 86%, 64%);
-    border-radius: 10px;
+    border-radius: 5px;
   }
   main {
     margin: 0 auto;
@@ -61,7 +62,7 @@
     font-weight: 600;
   }
   main p {
-    font-size: 15px;
+    font-size: 14px;
   }
   /* .left .img, .right .img {
     float:right;
@@ -124,6 +125,6 @@
     margin-bottom: 1rem;
   }
   .img {
-    width: 15%;
+    width: 20%;
   }
 }
